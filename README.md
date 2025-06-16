@@ -8,7 +8,7 @@ The primary goal of this task was to develop a robust sales forecasting model ca
 Dataset
 The project utilized a fictional retail sales dataset, providing transactional records including date, customer details, product categories, quantities, prices, and total sales amounts. This dataset was instrumental in analyzing historical sales patterns and generating future predictions.
 
-Source: [Link to your Kaggle Dataset here - PLEASE REPLACE THIS PLACEHOLDER WITH THE ACTUAL KAGGLE URL OF THE DATASET YOU USED]
+Source: Link to Kaggle Dataset-https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download
 
 Methodology
 The project followed a structured approach to build the sales forecasting dashboard:
